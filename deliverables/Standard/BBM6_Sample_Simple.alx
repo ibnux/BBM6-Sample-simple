@@ -1,0 +1,31 @@
+<loader version="1.0">
+	<application id="BBM6_Sample_Simple">
+		<name >
+			BBM6 Sample Simple
+		</name>
+		<description >
+			How to use BBM6 social platform
+		</description>
+		<version >
+			2.0.0
+		</version>
+		<vendor >
+			iBNuX
+		</vendor>
+		<copyright >
+			Copyright (c) 2011 iBNuX
+		</copyright>
+		<fileset Java="1.49" _blackberryVersion="[5.0.0)">
+			<directory >
+				5.0.0
+			</directory>
+			<files >
+				BBM6_Sample_Simple.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>

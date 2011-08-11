@@ -1,0 +1,10 @@
+MIDlet-Name: BBM6 Sample Simple
+MIDlet-Version: 2.0.0
+MIDlet-Vendor: iBNuX
+MIDlet-Description: How to use BBM6 social platform
+MIDlet-Jar-URL: BBM6 Sample Simple.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BBM6 Sample Simple,iconRadio.png,
+RIM-MIDlet-Flags-1: 0
